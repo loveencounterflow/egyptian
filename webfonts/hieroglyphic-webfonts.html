@@ -1,0 +1,61 @@
+
+<meta charset='UTF-8'>
+
+<style>
+@font-face { font-family: 'egypt';  src: url( './AaronUMdCPhoneticAlpha100.ttf' ); unicode-range: U+13000-1342f; }
+@font-face { font-family: 'flow';  src: local( 'jizura3b'              ); /*url( './fonts/jizura3b.ttf'               );*/ unicode-range: U+0e000-0efff; }
+
+html, body {
+  background-color:       #9eaeb5;
+  /*height:                 100vh;*/
+  /*width:                  100vw;*/
+  padding:                0mm;
+  margin:                 0mm;
+  /*position:               absolute;*/
+  /*overflow:               hidden;*/
+  /*font-size:              6mm;*/
+  font-family:            'egypt';
+}
+
+/* thx to https://developer.mozilla.org/en-US/docs/Web/CSS/line-height-step */
+:root {
+  --mktw-font-size:       6mm;
+  --mktw-grid:            8mm;
+  font-size:              var(--mktw-font-size);
+  line-height-step:       var(--mktw-grid); }
+
+
+jzr {
+  display:                block;
+  white-space:            nowrap;
+  color:                  red; }
+
+table {
+  table-layout:           fixed;
+  /*width:                  100%;*/
+  border-collapse:        collapse;
+  border:                 1px solid black; }
+
+table td,
+table th {
+  border:   1px solid black; }
+
+article {
+  display:                block;
+  padding:                var(--mktw-grid); }
+
+.flow { font-family: 'flow'; }
+
+</style>
+
+<article>
+
+
+<h2>Egyptian Hieroglyphs</h2>
+
+𓅰𓅰𓅰𓅰𓅰𓅱𓅲𓆃𓆄𓆳𓆣𓆤𓆣
+
+<div class=flow></div>
+
+</article>
+
