@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Reading of initial *j* as [ja]](#reading-of-initial-j-as-ja)
+- [Meaning of the name Aten](#meaning-of-the-name-aten)
+- [](#)
+- [Jmn](#jmn)
+- [Khwfw](#khwfw)
+- [Iwnw (Ἡλιούπολις)](#iwnw-%E1%BC%A9%CE%BB%CE%B9%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B9%CF%82)
+- [Nswt](#nswt)
+- [Unas / Wnjs](#unas--wnjs)
+- [Dhwty](#dhwty)
+- [Sesh Kemet](#sesh-kemet)
+- [Data](#data)
+- [See Also](#see-also)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 
@@ -124,10 +143,44 @@ pronunciation')]()https://en.wikipedia.org/wiki/Heliopolis_(ancient_Egypt)#Names
 > \*ʔa:wnu, perhaps from older /ja:wunaw/. Variant transcriptions include Awnu and Annu. The name survived as
 > Coptic ⲱⲛ ŌN.[9]
 
+## Nswt
+
+
+Instead of [nesut], we'd read nswt as [nesawat], and [indeed](https://en.wiktionary.org/wiki/nswt):
+
+> * (reconstructed) IPA(key): /nijˈsiːwat/ → /nijˈsiːjaʔ/ → /ʔənˈsiːʔə/ → /ʔənˈsiːʔ/
+> * (modern Egyptological) IPA(key): /nɛsuːt/
+
+In fact, our [nesawat] is somewhat closer to the reconstructed pronunciation than the traditional
+Egyptological reading.
+
+## Unas / Wnjs
+
+(Reddit
+user Ankhu_pn)[https://www.reddit.com/r/AncientEgyptian/comments/15dscwp/comment/ju6mkib/?utm_source=share&utm_medium=web2x&context=3]
+shared the following reconstruction of Unas's name: "Are you sure that /nibmuʕaʔˈɾiːʕə/ is more convenient
+than 'Nebmaatre'? Or /wanniju-suwa/ instead of 'Unas'?". Not sure where the last part /suwa/ comes in, but
+at least for the onset he gives /wan/, so another hint in favor of the present proposal, which would turn wnjs into /wanaias/.
+
+## Dhwty
+
+https://www.reddit.com/r/AncientEgyptian/comments/1abq32p/comment/kjq69qt/?utm_source=share&utm_medium=web2x&context=3
+
+> You mean /tʼəˈħawtʰej/? 😏
+
+* has /aw/ instead of /u/
+* has /ej/ ending as 'predicted' by our proposal
+
+## Sesh Kemet
+
+* https://seshkemet.weebly.com/phonology--phonetics.html
+
 
 ## Data
 
 * https://github.com/loveencounterflow/alan-gardiner-list-of-hieroglyphic-signs
 
+## See Also
 
+* [*Pre-Late Egyptian Reconstruction/Egyptian Pronunciation*](https://en.wikiversity.org/wiki/Pre-Late_Egyptian_Reconstruction/Egyptian_Pronunciation)
 
