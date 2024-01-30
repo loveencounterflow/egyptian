@@ -4,7 +4,7 @@
 
 - [Reading of initial *j* as [ja]](#reading-of-initial-j-as-ja)
 - [Meaning of the name Aten](#meaning-of-the-name-aten)
-- [](#)
+- [?????????????????????????????????](#)
 - [Jmn](#jmn)
 - [Khwfw](#khwfw)
 - [Iwnw (Ἡλιούπολις)](#iwnw-%E1%BC%A9%CE%BB%CE%B9%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B9%CF%82)
@@ -12,6 +12,7 @@
 - [Unas / Wnjs](#unas--wnjs)
 - [Dhwty](#dhwty)
 - [Sesh Kemet](#sesh-kemet)
+- [Stress and Epenthetic (Euphonic) Vowels](#stress-and-epenthetic-euphonic-vowels)
 - [Data](#data)
 - [See Also](#see-also)
 
@@ -88,7 +89,7 @@ although the author does not give any further reasons.
 > Aten show it with a curved surface, therefore, the late scholar Hugh Nibley insisted that a more correct
 > translation would be globe, orb or sphere, rather than disk.—https://en.wikipedia.org/wiki/Aten
 
-##
+## ?????????????????????????????????
 
 [*The Bivalence of Coptic Eta and Related Problems in the Vocalization of Egyptian* by Thomas O. Lambdin](https://copticsounds.files.wordpress.com/2010/01/the-bivalence-of-coptic-eta-and-related-problems-in-the-vocalization-of-egyptian.pdf), *Journal of Near Eastern Studies*, Vol. 17, No. 3 (July, 1958), pp. 177-193; published by The University of Chicago Press, Stable URL: http://www.jstor.org/stable/542885
 
@@ -175,6 +176,32 @@ https://www.reddit.com/r/AncientEgyptian/comments/1abq32p/comment/kjq69qt/?utm_s
 
 * https://seshkemet.weebly.com/phonology--phonetics.html
 
+## Stress and Epenthetic (Euphonic) Vowels
+
+We propose to
+
+* always put the stress on the last root syllable of each word
+* before any enclitics like endings for number, genus, possessive &c., and to
+* re-syllabify words such that `CV.CV.CVC` (where each `V`owel is preceded, and at the end followed, by a
+  `C`onsonant) is preferred over, say, `CVC.VC.VC`.
+* If we assume a rule that in ancient Egyptian regular words (except things like some grammatical particles
+  like `m` (`/em/`), names of letters (`/eme/`, `/aʔa/`), interjections, foreign names &c.) a vowel must
+  always be 'guarded' by consonants before and after it, it follows that one should think of the `/f/` of
+  `/nefer/` as *ambisyllabic*, that is, belonging to both the first and the second syllable; this assumption
+  is quite natural, simple, and independent of the question whether there are / should be geminated
+  consonants like the two `s` in Ramesses, `/raꜥmesesaw/` -> `/raꜥmessaw/` == `/raꜥmes:aw/` (i.e. the
+  lengthened `/s:/` is ambisyllabic)
+
+This means that `nfr` becomes `/ne'fer/`, which has stress on the second syllable, and that in `nfrw`, the
+stress stays on the second syllable: `/ne'fe.raw/` == `[nɛ'fɛrɔw]` because `/-w/` is enclitic.
+
+Further,
+
+* in noun-adjective compounds such as `pr-ꜥʔ` ('house', 'great'), the noun is the stressed part; this gives
+  `/'per-ꜥaʔ/` ('big house') with stress on the first syllable;
+* where sequences of words have become lexicalized, epenthetic (euphonic) vowels are added between the last
+  consonant of the preceding and the first consonant of the succeeding part; this then gives `/'peraꜥaʔ/` ==
+  `['pɛrɒʕæʔ]`, which is quite close to Φαραώ
 
 ## Data
 
