@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [*Espanso* Encoding Scheme](#espanso-encoding-scheme)
+  - [Manuel de Codage ASCII Transliterations and the Corresponding Uniliterals](#manuel-de-codage-ascii-transliterations-and-the-corresponding-uniliterals)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## *Espanso* Encoding Scheme
 
@@ -15,7 +24,7 @@
   (Menkheperre) in BT as `mn,xpr,ra` and display in *AE* *m*ono*l*iterals by way of a markup like
   `<aeml>mn,xpr,ra</aeml>`
 
-### Manuel de Codage ASCII Transliterations and the Corresponding Monoliterals
+### Manuel de Codage ASCII Transliterations and the Corresponding Uniliterals
 
 ```
 A 𓄿
