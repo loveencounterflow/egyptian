@@ -2,7 +2,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Rules](#rules)
+- [Transcription Levels](#transcription-levels)
+- [Language Represented](#language-represented)
+- [Root and Stem](#root-and-stem)
+- [XXXXXXXXXXXXXXX](#xxxxxxxxxxxxxxx)
+- [Inherent Vowels, Vowel-Coloring](#inherent-vowels-vowel-coloring)
 - [Reading of initial *j* as [ja]](#reading-of-initial-j-as-ja)
+- [Reading of final *j* as [ai] > [ei]](#reading-of-final-j-as-ai--ei)
+- [Reading of final *w* as [aw] > [ow]](#reading-of-final-w-as-aw--ow)
+- [Name of Akhenaten](#name-of-akhenaten)
 - [Meaning of the name Aten](#meaning-of-the-name-aten)
 - [?????????????????????????????????](#)
 - [Jmn](#jmn)
@@ -11,6 +20,7 @@
 - [Nswt](#nswt)
 - [Unas / Wnjs](#unas--wnjs)
 - [Dhwty](#dhwty)
+- [Tut-Ankh-Amon](#tut-ankh-amon)
 - [Sesh Kemet](#sesh-kemet)
 - [Stress and Epenthetic (Euphonic) Vowels](#stress-and-epenthetic-euphonic-vowels)
 - [Data](#data)
@@ -18,8 +28,83 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Rules
 
 
+* each consonant / element from the hieroglyphic orthography must be accounted for
+* we assume that all signs of the conventional set of uniliterals represent consonants in the sense that
+  none of the uniliterals can appear as the nucleus of FEP
+* we assume that the conventional set of uniliterals is sufficient (and somewhat redundant) to represent the
+  consonants of a certain (fictional) stage of the Egyptian language
+  * there are some consonants that are represented by multiple uniliterals, but there are no consonants that
+    are not represented by at least one uniliteral
+* the opposition of 𓋴 *s* vs 𓊃 *z* is somewhat of a special case as these two uniliterals are used without
+  distinction for the same words by the 18th / 19th dynasties; it is therefore difficult to decide what the
+  correct form for the name of Ramesses should be: is it 𓂋𓅓𓋴𓋴 or 𓂋𓅓𓊃𓊃? Both forms do appear in the written
+  record
+* the names of the uniliteral signs take the form VCV (unlike any other words in FEP); the C represents the
+  uniliteral in question and V the uniliteral's 'inherent' vowel; most consonants have a /e/ as inherent
+  vowel but some have /a/ and some have /o/:
+
+  ```
+  A 𓄿 /aꜣa/
+  i 𓇋 /aya/
+  y 𓏭 /aya/
+  Y 𓇌 /aya/
+  a 𓂝 /aꜥa/
+  w 𓅱 /awa/
+  b 𓃀 /ebe/
+  p 𓊪 /epe/
+  f 𓆑 /efe/
+  m 𓅓 /eme/
+  n 𓈖 /ene/
+  r 𓂋 /ere/
+  h 𓉔 /ehe/
+  H 𓎛 /oḥo/
+  x 𓐍 /eḫe/
+  X 𓄡 /eẖe/
+  z 𓊃 /eze/
+  s 𓋴 /ese/
+  S 𓈙 /eše/
+  q 𓈎 /oqo/
+  k 𓎡 /eke/
+  g 𓎼 /ege/
+  t 𓏏 /ete/
+  T 𓍿 /eṯe/
+  d 𓂧 /ede/
+  D 𓆓 /eḏe/
+  ```
+
+* Of the inherent vowels, /e/ is called 'weak' and the other two, /a/ and /o/, 'strong'
+
+* To vocalize a word, take the transcribed string of consonants and, for every space between two consonants:
+  * if the inherent vowel of both consonants is the same, insert that vowel (ex.: *sd* /sed/, *ḥq* /ḥoq/,
+    *ı͗w* /jaw/)
+  * if one of the inherent vowels is weak (/e/) and the other is strong (/a/, /o/), insert the strong one
+    (ex.: *sq* /soq/, *qs* /qos/)
+  * if both vowels are strong ones, insert the one that belongs to the *following* consonant (ex.: *ḥqꜣ*
+    /ḥoqaꜣ/ not \*/ḥoqoꜣ/)
+
+
+## Transcription Levels
+
+* Hieroglyphs as commonly written or as present on a given artifact: 𓉺𓏌𓊖
+* Uniliteral hieroglyphs: 𓇋𓅱𓈖𓅱
+* Consonantal transliteration (romanization): *ı͗wnw*
+* Phonemic transcription with vowels: /jawanaw/
+* Phonetic transcription with allophones: ['jawənəw]
+
+
+## Language Represented
+
+ca. 18th dynasty, call it Fictional Egyptian Pronunciation (FEP)
+
+## Root and Stem
+
+* **root**: only the consonants
+* **stem**: root consonants plus vowels
+
+## XXXXXXXXXXXXXXX
 
 
 𓋾𓉺𓇗
@@ -53,6 +138,18 @@ after the classical period.
 
 https://en.wikipedia.org/wiki/Upper_Egypt
 
+## Inherent Vowels, Vowel-Coloring
+
+* https://en.wikipedia.org/wiki/Laryngeal_theory#Basic_laryngeal_set
+
+
+> ### Basic laryngeal set
+>
+> Most scholars work with a basic three:
+>
+> * **\*h₁**, the neutral laryngeal
+> * **\*h₂**, the a-colouring laryngeal
+> * **\*h₃**, the o-colouring laryngeal
 
 ## Reading of initial *j* as [ja]
 
@@ -80,6 +177,51 @@ although the author does not give any further reasons.
 > The spellings with three reed-leaves suggest /aj/ ( over ) and /ja/ (█ over █), indicating that the word
 > may have been onomatopoeic /a-jaʹ/ or /aʹ-ja/. █, █, █ y “utterance” (noun: 379, 479.11, 609.20/22 ); █,
 > “oh” (particle: 475.1, 476.4 ). These two words are undoubtedly related, and most likely represent /ja/.
+
+## Reading of final *j* as [ai] > [ei]
+
+* [Wikiepdia *Afroasiatic
+  languages*](https://en.wikipedia.org/wiki/Afroasiatic_languages#%22Nisba%22_derivation):
+
+> The [Nisba] suffix has the same basic form in Egyptian and Semitic, taking the form **-i(y)** in Semitic
+> and being written -j in Egyptian. [..] Due to its presence in the oldest attested and best-known
+> A[fro-]A[siatic] branches, nisba derivation is often thought of as a "quintessentially Afroasiatic
+> feature". Christopher Ehret argues for its presence in Proto-Afroasiatic and for its attestation
+> in some form in all branches, with a shape **-\*ay in addition to -\*iy** in some cases.
+
+## Reading of final *w* as [aw] > [ow]
+
+*The Afroasiatic languages*, edited by Zygmunt Frajzyngier, Erin Shay (Cambridge language surveys);
+University Press, Cambridge 2012
+
+p116
+
+> (17) Old Eg. kꜣnw \*/kʰaʀnaʋ/ > Late Eg. \*/kʰaʔm/ > Coptic côm /kʲo:m/ ‘garden’
+
+> (18a) Old Eg. ḫpr \*/xaːpaɹ/ > Late Eg. \*/xaːpe/ > Coptic šôpe /ʃo:pə/ ‘to become’
+
+> (18b) Old Eg. nṯr.w \*/nacʰhuːɹaʋ/ > Late Eg. \*/nətʰeːɹə/ ‘gods’ > Coptic ntêr \*/n̩tʰeːɹ/ ‘idols’
+
+Book also has numerous examples of reconstructed Words where frequently (but not always) the first vowel of
+a word is long, supporting our proposal to put stress on the first syllable of a word
+
+## Name of Akhenaten
+
+(Wikipedia *Akhenaten*)[https://en.wikipedia.org/wiki/Akhenaten]:
+
+> Akhenaten (pronounced /ˌækəˈnɑːtən/), also spelled Akhenaton or Echnaton (Ancient Egyptian: ꜣḫ-n-jtn
+> ʾŪḫə-nə-yātəy, pronounced [ˈʔuːχəʔ nə ˈjaːtəj], meaning 'Effective for the Aten')
+
+Quoted after:
+
+* Loprieno, Antonio (1995) *Ancient Egyptian: A Linguistic Introduction*, Cambridge: Cambridge University
+  Press
+
+* Loprieno, Antonio (2001) "From Ancient Egyptian to Coptic" in Haspelmath, Martin et al. (eds.), *Language
+  Typology and Language Universals*
+
+Here 'Aten' as last part of a name is reconstructed as [ˈjaːtəj], likely with a high vowel plus an
+already elided [n] \(as opposed to the [n] having become a high vowel); compare to our proposal ['jaten].
 
 ## Meaning of the name Aten
 
@@ -172,6 +314,14 @@ https://www.reddit.com/r/AncientEgyptian/comments/1abq32p/comment/kjq69qt/?utm_s
 * has /aw/ instead of /u/
 * has /ej/ ending as 'predicted' by our proposal
 
+## Tut-Ankh-Amon
+
+* Book by Theodore M. Davis is entitled [*The tombs of Harmhabi and
+  Touatânkhamanou*](https://archive.org/details/theodoremdavisex0000davi/page/n3/mode/2up), i.e. the author
+  read *twt* not as \*/tut/ (traditional Egyptological pronunciation) and not as \*/tawat/ (our proposal),
+  but in a 'midway' fashion, as it were, as /tuwat/. The use of *ou* seems to indicate a monophthongue as
+  does the *ou* in his *amanou*, i.e. French orthographical influence.
+
 ## Sesh Kemet
 
 * https://seshkemet.weebly.com/phonology--phonetics.html
@@ -180,8 +330,8 @@ https://www.reddit.com/r/AncientEgyptian/comments/1abq32p/comment/kjq69qt/?utm_s
 
 We propose to
 
-* always put the stress on the last root syllable of each word
-* before any enclitics like endings for number, genus, possessive &c., and to
+* always put the stress on the *first* root syllable of each word
+* after any proclitics like *se-* (causative)
 * re-syllabify words such that `CV.CV.CVC` (where each `V`owel is preceded, and at the end followed, by a
   `C`onsonant) is preferred over, say, `CVC.VC.VC`.
 * If we assume a rule that in ancient Egyptian regular words (except things like some grammatical particles
@@ -202,6 +352,10 @@ Further,
 * where sequences of words have become lexicalized, epenthetic (euphonic) vowels are added between the last
   consonant of the preceding and the first consonant of the succeeding part; this then gives `/'peraꜥaʔ/` ==
   `['pɛrɒʕæʔ]`, which is quite close to Φαραώ
+
+> **maybe** should make the first vowel of a word *a*, the other ones the inherent vowel *e*/*o*
+
+> **maybe** should make the only vowel of monosyllabic words a long *a*, as in *ta* 'bread'
 
 ## Data
 
