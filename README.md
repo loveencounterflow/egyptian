@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Rules](#rules)
+- [Stress and Resyllabification](#stress-and-resyllabification)
 - [Transcription Levels](#transcription-levels)
 - [Language Represented](#language-represented)
 - [Root and Stem](#root-and-stem)
@@ -10,7 +11,11 @@
 - [Inherent Vowels, Vowel-Coloring](#inherent-vowels-vowel-coloring)
 - [Reading of initial *j* as [ja]](#reading-of-initial-j-as-ja)
 - [Reading of final *j* as [ai] > [ei]](#reading-of-final-j-as-ai--ei)
+- [Peust 1999 Egyptian Phonolgy p50](#peust-1999-egyptian-phonolgy-p50)
 - [Reading of final *w* as [aw] > [ow]](#reading-of-final-w-as-aw--ow)
+  - [Frajzyngier](#frajzyngier)
+  - [Rilly](#rilly)
+- [*ı͗nk* /janek/](#%C4%B1%CD%97nk-janek)
 - [Name of Akhenaten](#name-of-akhenaten)
 - [Meaning of the name Aten](#meaning-of-the-name-aten)
 - [?????????????????????????????????](#)
@@ -23,6 +28,7 @@
 - [Tut-Ankh-Amon](#tut-ankh-amon)
 - [Sesh Kemet](#sesh-kemet)
 - [Stress and Epenthetic (Euphonic) Vowels](#stress-and-epenthetic-euphonic-vowels)
+  - [Sample Reconstructed Readings](#sample-reconstructed-readings)
 - [Data](#data)
 - [See Also](#see-also)
 
@@ -77,13 +83,45 @@
 
 * Of the inherent vowels, /e/ is called 'weak' and the other two, /a/ and /o/, 'strong'
 
-* To vocalize a word, take the transcribed string of consonants and, for every space between two consonants:
+* To vocalize a monoliteral word:
+  * If it is a function word or affix (including clitics) like *s-*, *-m*, *-n*, *-r*, *-f*, use the
+    traditional Egyptological readings /se-/, /-em/, /-en/, /-er/, /-ef/; *-w* and *-y* are vocalized as
+    /-aw/ and /-aj/, respectively
+  * If it is, on the other hand, a content word such as a noun, verb or adjective, append a long vowel /a/
+    to the sole consonant, as in *t* 'bread' which is vocalized as /ta/ [taː].—This rule may look somewhat
+    arbitrary but there are some motivations behind it:
+    * frequent default vowel
+    * most open vowel, most un-consonantal sound, yet also associated with a unique
+      (negatively-constrictive) gesture; /a/ is paradoxically 'close to consonants' in the sense that
+      producing and perceiving a glottal stop in front of a vowel is easier with /ꜣa/ than with, say, /ꜣi/
+    * across languages, consonant elision is frequently associated with a lengthened vowel; this may be
+      understood as a process where the (relatively difficult) movement to produce a constriction in a VC
+      syllable is simplified by just continuing the vowel without changing the 'timing slots' of the word,
+      which results in VV, a lengthened vowel (or a diphthong as the case may be)
+    * Using a strong and long vowel helps uniliteral words to stand their ground in the stream of mostly
+      longer and more substantial content words
+
+* To vocalize a pluriliteral word, take the transcribed string of consonants and, for every space between
+  two consonants:
   * if the inherent vowel of both consonants is the same, insert that vowel (ex.: *sd* /sed/, *ḥq* /ḥoq/,
     *ı͗w* /jaw/)
   * if one of the inherent vowels is weak (/e/) and the other is strong (/a/, /o/), insert the strong one
     (ex.: *sq* /soq/, *qs* /qos/)
   * if both vowels are strong ones, insert the one that belongs to the *following* consonant (ex.: *ḥqꜣ*
-    /ḥoqaꜣ/ not \*/ḥoqoꜣ/)
+    /ḥoqaꜣ/ not \*/ḥoqoꜣ/, *ḏḥwtj* /ḏoḥawataj/)
+
+
+## Stress and Resyllabification
+
+* full / citation form vs reduced / bound / usual form
+* preference for two-syllable-words: *ḫftj* /ḫefetej/ > /ḫeftej/ > /ḫefti/ 'enemy'
+
+*The Afroasiatic languages*, edited by Zygmunt Frajzyngier, Erin Shay (Cambridge language surveys);
+University Press, Cambridge 2012
+
+p117
+
+> (22b) Old Eg. mȜc.t \*/murdat/ > Late Eg. \*/meʔʕə/ > Coptic me /mεʔ/ ‘truth’
 
 
 ## Transcription Levels
@@ -178,18 +216,31 @@ although the author does not give any further reasons.
 > may have been onomatopoeic /a-jaʹ/ or /aʹ-ja/. █, █, █ y “utterance” (noun: 379, 479.11, 609.20/22 ); █,
 > “oh” (particle: 475.1, 476.4 ). These two words are undoubtedly related, and most likely represent /ja/.
 
+* William Foxwell Albright, *The vocalization of the Egyptian syllabic orthography*
+
+
 ## Reading of final *j* as [ai] > [ei]
 
 * [Wikiepdia *Afroasiatic
   languages*](https://en.wikipedia.org/wiki/Afroasiatic_languages#%22Nisba%22_derivation):
 
 > The [Nisba] suffix has the same basic form in Egyptian and Semitic, taking the form **-i(y)** in Semitic
-> and being written -j in Egyptian. [..] Due to its presence in the oldest attested and best-known
+> and being written -j in Egyptian. [...] Due to its presence in the oldest attested and best-known
 > A[fro-]A[siatic] branches, nisba derivation is often thought of as a "quintessentially Afroasiatic
 > feature". Christopher Ehret argues for its presence in Proto-Afroasiatic and for its attestation
 > in some form in all branches, with a shape **-\*ay in addition to -\*iy** in some cases.
 
+## Peust 1999 Egyptian Phonolgy p50
+
+> ScnENKEL (.1994b: 1.3 and 1997a: 3o) suggests that, unlike � and �� which are always
+> consonants, U represents a morpheme- or wordfinal posttonic vowel /i/ at least in many
+> cases. Note, however, that some words which are quite regularly written with 1! 'i still
+> have consonantal /j/ in Coptic (e.g. Late Egyptian d'i "here" > Tc\.1 /'taj/, r-l]fi "up" >
+> €2Jl"l /oh'rajl).
+
 ## Reading of final *w* as [aw] > [ow]
+
+### Frajzyngier
 
 *The Afroasiatic languages*, edited by Zygmunt Frajzyngier, Erin Shay (Cambridge language surveys);
 University Press, Cambridge 2012
@@ -204,6 +255,23 @@ p116
 
 Book also has numerous examples of reconstructed Words where frequently (but not always) the first vowel of
 a word is long, supporting our proposal to put stress on the first syllable of a word
+
+### Rilly
+
+[*The Decipherment of Meroitic | Claude Rilly, Sorbonne* by The Institute for the Study of Ancient Cultures
+(ISAC, @ISAC_UChicago)](https://youtu.be/Myj8ehkVRw8?t=1806), transcript from 30:42:
+
+> Egyptian *nbw* (reads [ne'bu]), pronounced [na'bau]
+
+## *ı͗nk* /janek/
+
+*The Afroasiatic languages*, edited by Zygmunt Frajzyngier, Erin Shay (Cambridge language surveys);
+University Press, Cambridge 2012
+
+p117
+
+> (21b) Old Eg. jnk \*/janak/ > Coptic anok /ʔanɔk/ ‘I’
+
 
 ## Name of Akhenaten
 
@@ -356,6 +424,17 @@ Further,
 > **maybe** should make the first vowel of a word *a*, the other ones the inherent vowel *e*/*o*
 
 > **maybe** should make the only vowel of monosyllabic words a long *a*, as in *ta* 'bread'
+
+### Sample Reconstructed Readings
+
+* from [Wiktionary: 𓆳](https://en.wiktionary.org/wiki/rnpt)
+
+  > (reconstructed) IPA(key): /ˈɾanpat/ → /ˈɾanpaʔ/ → /ˈɾanpa/ → /ˈɾanpə/
+  >
+  > (modern Egyptological) IPA(key): /rɛnpɛt/
+  >
+  > Conventional anglicization: renpet
+
 
 ## Data
 
