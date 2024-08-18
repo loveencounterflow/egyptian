@@ -3,6 +3,9 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Rules](#rules)
+- [Tripartite Vowel System](#tripartite-vowel-system)
+- [The Value of Egyptological Usage in Modern Egypt for this Work](#the-value-of-egyptological-usage-in-modern-egypt-for-this-work)
+- [Collection of Reconstred Ancient Egyptian Words](#collection-of-reconstred-ancient-egyptian-words)
 - [Stress and Resyllabification](#stress-and-resyllabification)
 - [Transcription Levels](#transcription-levels)
 - [Language Represented](#language-represented)
@@ -15,11 +18,13 @@
 - [Reading of final *w* as [aw] > [ow]](#reading-of-final-w-as-aw--ow)
   - [Frajzyngier](#frajzyngier)
   - [Rilly](#rilly)
+- [Schenkel about Fecht's 1968 Treatment of Syllables and Accent in O.E.](#schenkel-about-fechts-1968-treatment-of-syllables-and-accent-in-oe)
 - [*ı͗nk* /janek/](#%C4%B1%CD%97nk-janek)
 - [Name of Akhenaten](#name-of-akhenaten)
 - [Meaning of the name Aten](#meaning-of-the-name-aten)
 - [?????????????????????????????????](#)
 - [Jmn](#jmn)
+- [](#)
 - [Khwfw](#khwfw)
 - [Iwnw (Ἡλιούπολις)](#iwnw-%E1%BC%A9%CE%BB%CE%B9%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B9%CF%82)
 - [Nswt](#nswt)
@@ -110,6 +115,23 @@
   * if both vowels are strong ones, insert the one that belongs to the *following* consonant (ex.: *ḥqꜣ*
     /ḥoqaꜣ/ not \*/ḥoqoꜣ/, *ḏḥwtj* /ḏoḥawataj/)
 
+## Tripartite Vowel System
+
+a i u
+
+æ — ɑ     i — e     u — o
+  ʔ         j         w
+
+## The Value of Egyptological Usage in Modern Egypt for this Work
+
+* [*Secrets of the Libyan Pharaohs* by World of Antiquity / David Miano (@ T =
+  1840s)](https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1840s): Listen to an unnamed Egyptian guide
+  reading the hieroglyphs in the Great Temple of Amun at Tanis
+
+## Collection of Reconstred Ancient Egyptian Words
+
+[*Pre-Late Egyptian Reconstruction/Egyptian
+Pronunciation*](https://en.wikiversity.org/wiki/Ancient_Egyptian_vocalization_project/List_of_vocalized_forms)
 
 ## Stress and Resyllabification
 
@@ -205,6 +227,17 @@ although the author does not give any further reasons.
 
 > Ah-mose, [...] [der] alte[...] Mondgott[...] Iah, des Mondes in seiner physischen Gestalt
 
+* [*The difficulties of figuring out the historical pronunciation of the name of
+  Aten*](https://www.instagram.com/reel/C-jA3NCO-In/)
+
+[*The difficulties of figuring out the historical pronunciation of the name of
+  Aten*](media/egyptiancopticlanguage%20--%20pronunciation%20of%20Aten%20--%20instagram.com_reel_C-jA3NCO-In.mp4)
+
+> A great article on this topic (if you can read German): Gerhard Fecht. "Amarna-Probleme (1-2)". In:
+> Zeitschrift für Ägyptische Sprache und Altertumskunde 85 (1960).
+
+has *jtn* /jāten/ > /jāti/
+
 * https://en.wikipedia.org/wiki/Iah:
 
 > Iah (Egyptian: jꜥḥ, Coptic ⲟⲟϩ) is a lunar deity in ancient Egyptian religion. The word jꜥḥ simply means
@@ -262,6 +295,32 @@ a word is long, supporting our proposal to put stress on the first syllable of a
 (ISAC, @ISAC_UChicago)](https://youtu.be/Myj8ehkVRw8?t=1806), transcript from 30:42:
 
 > Egyptian *nbw* (reads [ne'bu]), pronounced [na'bau]
+
+As for the question whether 'gold' should be transcribed as *nbw* or *nwb*, see [Francis Breyer, *,Nubien‘
+und äg. nb.w ,Gold‘ – eine Gegendarstellung*, in MittSAG 20
+p173ff](https://journals.ub.uni-heidelberg.de/index.php/mittsag/article/download/85552/79931) (cf. also
+[*Der Antike Sudan. Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin e.
+V.*](https://journals.ub.uni-heidelberg.de/index.php/mittsag])), who states unambiguously that reading
+\*/nub/ is an anachronistic (late) Coptic reading that somehow made it into parts of the egyptological
+tradition; he quotes Beni Hassan I, 8:11 as rendering a complete writing of Gardiner S12 with all
+consonants, n-S12-b-w<sup>Z3</sup> (wheras the more frequently written S12-w *could* conceivably be
+reconstructed as *nwb*). This fully confirms the above reading of C. Rilly.
+
+## Schenkel about Fecht's 1968 Treatment of Syllables and Accent in O.E.
+
+* see Schenkel_Fecht_Wortakzent_und_Silbenstruktur_im_Aegyptischen_1968.pdf
+* samples:
+  ** (column 539)
+
+\*ha.mn&tär, vorher schon \*hän(n)älS, > hont „Priester"
+wird in eine Reihe gestellt z. B. mit den Personenbezeichnungen %an>a, sons < \*hänsuw „Chons", pa>v&
+< \*mantMw „Month", sös < \*sä^s"w „Hirt", ooh <
+< \*jä'huw „Mond" (Personenbezeichnung nur, sofern
+m an darin das göttliche Wesen sieht) u. a. m.; \*jänejs-wvt o. ä. > \*nts»w o. ä. in eine Reihe mit den Personenbezeichnungen re < rk'uw „Re", neb < "nkb^w
+„Herr", oder anderen Wesen wie tew < \*te]^w „Wind"
+u. a. m. Die Überführung in ein geläufiges Schema der
+Wortbildung muß sich lautlich durchaus nicht nahtlos
+vollziehen. Die Vokalisation bleibt bei dem Umsetzungprozeß am eheste
 
 ## *ı͗nk* /janek/
 
@@ -324,9 +383,53 @@ This would lead one to believe that initial *w-* to be read as {wa-} and at leas
 
 * https://www.reddit.com/r/AncientEgyptian/comments/17yjm5v/possible_rendering_of_verb_jmn_to_hide/
 
+##
+
+https://www.reddit.com/r/EgyptianMythology/comments/1bsxidh/atum_aton_amun/
+
+Question:
+
+> Atum, Aton, Amun, ...?
+>
+> Is there any linguistic significance to these gods having rather similar names?
+>
+> Not only are their names similar, they all functioned at some time as the most fundamental gods (?), Aton
+> being something of an outlier (?) because Amarna didn't last that long
+>
+> What are some reconstructed pronunciations of these gods? It seems to me that the forms I used here are
+> rather late Coptic and/or Greek forms?
+>
+> Are there more gods with similar names?
+
+Answer:
+
+> The three have linguistically different names, but in the Ptolemaic period the similarity could have been
+> noticed and utilized due to the connection of m and n- i haven't seen any examples though. By that point
+> Amun was pretty much out of the spotlight though.
+>
+> Atum (Also called 'Temu'): tmw/tm/itmw/itm (𓇋)𓍃𓐝(𓅱) likely meaning 'the complete/whole/finished one'.
+> Reconstructed /jaˈtaːmuw/ → /jaˈtaːmuw/ → /ʔaˈtaːmə/ → /ʔaˈtoːm/.
+>
+> Amun: imn 𓇋𓏠𓈖 meaning 'the hidden one'. I think this meaning may not have been the original meaning of the
+> name, but the word imn 'hidden' was certainly utilized as a pun relating to his name as early as the
+> pyramid texts. They might have created a folk etymology where this was the original meaning. Reconstructed
+> /jaˈmaːnuw/ → /jaˈmaːnuw/ → /ʔaˈmaːnə/ → /ʔaˈmoːn/.
+>
+> Aton: itn 𓇋𓏏𓈖 meaning 'sun disk'. Reconstructed /ˈjaːtin/ → /ˈjaːtin/ → /ˈjaːtəj/ → /ˈjoːtəj/.
+>
+> All reconstructions from wiktionary.
+
+
+Wolfgang Schenkel, "Ist „Mythos" ein griechisches Lehnwort aus dem Ägyptischen?", in: Gerald Moers, Heike
+Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedrich Junge* (Bd. 2), Göttingen
+2006, (p547-580), on p552, reconstruction of *jtm* as ['ja:tā́m.uw]:
+
+> griech. Patoumos < äg. Pr.w-\*'Ia:tā́m.uw (Ortsname)
+
+
 ## Khwfw
 
-Our rules would render Cheop's name Khwfw as 'Khawafu' which is curely not desirable, or is it? [Wikipedia
+Our rules would render Cheop's name Khwfw as 'Khawafu' which is surely not desirable, or is it? [Wikipedia
 quotes [Gundacker 2015]](https://en.wikipedia.org/wiki/Khufu)
 
 > While modern Egyptological pronunciation renders his name as Khufu, at the time of his reign his name was
@@ -440,7 +543,18 @@ Further,
 
 * https://github.com/loveencounterflow/alan-gardiner-list-of-hieroglyphic-signs
 
+
 ## See Also
 
 * [*Pre-Late Egyptian Reconstruction/Egyptian Pronunciation*](https://en.wikiversity.org/wiki/Pre-Late_Egyptian_Reconstruction/Egyptian_Pronunciation)
+
+* ["Wortakzenl und Silbenstruktur im Ägyptischen" by W. Schenkel, in: *Orientalistische Literaturzeitung*
+  63, 1968, Sp.
+  533–541](https://archiv.ub.uni-heidelberg.de/propylaeumdok/3032/1/Schenkel_Wortakzent_und_Silbenstruktur_im_Aegyptischen_1968.pdf)
+  * lokal `Schenkel_Fecht_Wortakzent_und_Silbenstruktur_im_Aegyptischen_1968.pdf`
+
+* ["Das altägyptische Alphabet und seine Umschreibung" by Georg Steindorff, 1892](???)
+  * lokal `Steindorff 1892 Das altägyptische Alphabet und seine Umschreibung.pdf`
+
+
 
