@@ -263,7 +263,37 @@ has *jtn* /jāten/ > /jāti/
 > feature". Christopher Ehret argues for its presence in Proto-Afroasiatic and for its attestation
 > in some form in all branches, with a shape **-\*ay in addition to -\*iy** in some cases.
 
-## Peust 1999 Egyptian Phonolgy p50
+## The "Genetival Particle" *n*
+
+[Reddit user zsl454](https://www.reddit.com/user/zsl454/)
+[remarks](https://www.reddit.com/r/egyptology/comments/1ffiwd7/what_are_the_theories_on_these_titles_concerning/):
+
+> The indirect genitive makes use of the genitival adjective, n[y] (plural nw, feminine nt, dual nwy) often
+> expressed as just n, "Of". It is arranged as X-n-Y. This is the form we see used in my example, "Amun of
+> Ramesses" [𓇋𓏠𓈖𓈖𓇳𓄊𓁦𓍉𓇳, ỉmn-n-wsr-mꜣꜥt-rꜥ-stp-[n]-rꜥ, "Amun of Usermaatre-Setepenre (the Throne name of
+> Ramesses II)"]
+
+* singular *n[y]*: *nay*
+* plural *nw*: *naw*
+* feminine *nt*: *net* (irregular *nat* to keep the pattern?)
+* dual *nwy*: *nawey* > *nawi*
+
+This means our system should use the following readings
+
+XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
+
+[Wikipedia *Akhenaten*](https://en.wikipedia.org/wiki/Akhenaten):
+
+> Akhenaten (pronounced /ˌækəˈnɑːtən/ listenⓘ), also spelled Akhenaton or Echnaton (Ancient Egyptian:
+> ꜣḫ-n-jtn ʾŪḫə-nə-yātəy, pronounced [ˈʔuːχəʔ nə ˈjaːtəj], meaning 'Effective for the Aten')
+
+Observe [nə] instead of \*[ən] for particle *n*.
+
+
+## Peust 1999 Egyptian Phonology p50
 
 > ScnENKEL (.1994b: 1.3 and 1997a: 3o) suggests that, unlike � and �� which are always
 > consonants, U represents a morpheme- or wordfinal posttonic vowel /i/ at least in many
@@ -383,7 +413,7 @@ This would lead one to believe that initial *w-* to be read as {wa-} and at leas
 
 * https://www.reddit.com/r/AncientEgyptian/comments/17yjm5v/possible_rendering_of_verb_jmn_to_hide/
 
-##
+## XXXXXXXXXXXXXXX
 
 https://www.reddit.com/r/EgyptianMythology/comments/1bsxidh/atum_aton_amun/
 
@@ -427,6 +457,72 @@ Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedric
 > griech. Patoumos < äg. Pr.w-\*'Ia:tā́m.uw (Ortsname)
 
 
+## The Names Thutmosis and Ramesses
+
+### Thutmosis
+
+[From Wikipedia article on *Thutmosis*](https://en.wikipedia.org/wiki/Thutmose):
+
+> Thutmose (also rendered Thutmoses, Thutmosis, Tuthmose, Tutmosis, Thothmes, Tuthmosis, Thutmes, Dhutmose,
+> Djhutmose, Djehutymes, [Djehutimes,] etc.) is an anglicization of the ancient Egyptian personal name
+> dhwty-ms, usually translated as "Born of the god Thoth".
+>
+> Thoutmôsis (in Ancient Greek Θούθμωσις / Thoúthmôsis) is the Hellenized form of the Egyptian Ḏḥwtj-mś
+> (reconstructed pronunciation: /tʼaˈħawtij ˈmissaw/) and means "Born of Thoth". This theophoric name was
+> part of the royal titulary of four pharaohs of the 18th dynasty as the name of Sa-Rê or "birth name". It
+> was also worn by the eldest son of Amenhotep III, high priest of Ptah, as well as by a vizier who
+> exercised his functions successively under Thutmose IV and Amenhotep III. Under this last king and under
+> his successor, Amenhotep IV, two other high dignitaries, royal sons of Kush, similarly called themselves
+> "Born[s] of Thoth".
+
+### Ramesses
+
+[From Wikipedia article on *Ramesses*](https://en.wikipedia.org/wiki/Ramesses_(Egyptian_name)):
+
+> Ramesses (/ræˈmɛsiːz/ or /ˈræməsiːz/), also commonly spelled Rameses or Ramses (/ˈræməsɛs/, /ˈræmsɛs/, or
+> /ˈræmsiːz/), is the name conventionally given in English transliteration to 11 Egyptian pharaohs of the
+> later New Kingdom period. Other variants of the name include Ramose and Paramessu; these various spellings
+> could be used to refer to the same person.
+>
+> The various forms are based on the Greek (Ραμεσσυς: Ramessus), Latin (Ramesses), or Hebrew (רעמסס:
+> Raˁamses, Raˁmeses) forms of the name, all ultimately based on the Ancient Egyptian form: rˁ-ms-sw (𓅭𓇳)
+> "Ra [is] the one who gave birth [to] him".
+>
+> The name (רעמסס: Raˁamses, Raˁmeses) occurs in the Hebrew Bible, not as the name of a king but rather the
+> name of one of the two cities which was built for the Pharaoh of the oppression by the forced labor of the
+> Israelites (Exodus, 1:11), the other such city being Pithom. Thus, the name was known to Jews and
+> Christians long before the advent of modern Egyptology. The city is now commonly identified as Pi-Ramesses
+> (House of Ramesses), the new capital founded by Ramesses II.
+
+The famous [statue of *Ramesses as a Child*](https://en.wikipedia.org/wiki/File:Ramesses_II_as_child.jpg)
+
+<figure>
+![](media/Ramesses_II_as_child.jpg)
+
+Statue of Ramses II as a child and the god Hwrwn (god of Canaan). A rare category of statuary, as the three
+hieroglyphs form a "rebus" of Ramesses II's name: Ra-mes-su.
+</figure>
+
+<figure>
+![](media/Ägyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg)
+
+Egyptian Museum Cairo: Statue of the ancient Egyptian king Ramesses II as child together with the
+falcon-shaped god Horon responsible for the selection of the princes as successors to the throne, grey
+granite and limestone (for the falcon’s face), Tanis, New Kingdom, Nineteenth Dynasty, time of Ramesses II
+1290-1223 BC.
+</figure>
+
+[Wikipedia on *Rebus*](https://en.wikipedia.org/wiki/Rebus):
+
+> A famous rebus statue of Ramses II uses three hieroglyphs to compose his name: Horus (as Ra), for Ra; the
+> child, mes; and the sedge plant (stalk held in left hand), su; the name Ra-mes-su is then formed.
+
+Note: The fact that Ramesses' name is spelt out as three parts by the statue's artist might indicate that,
+for the Egyptians at that time, the name did consist of three parts: the Sun, a Child, a Reed (or Sedge);
+one can also surmise that the latter parts, *ms-sw*, were still somewhat fully pronounced; hence,
+[raʕ'missaw].
+
+
 ## Khwfw
 
 Our rules would render Cheop's name Khwfw as 'Khawafu' which is surely not desirable, or is it? [Wikipedia
@@ -442,6 +538,9 @@ quotes [Gundacker 2015]](https://en.wikipedia.org/wiki/Khufu)
 > Gundacker posits that /j/ assimilated to the preceding /w/, which was preserved.
 
 This then lends further motivation to our suggestion to read initial and medial w as '(a)wa'.
+
+**insert quotes from quack_sokar_8_2004.pdf here**
+
 
 ## Iwnw (Ἡλιούπολις)
 
@@ -459,6 +558,7 @@ pronunciation')]()https://en.wikipedia.org/wiki/Heliopolis_(ancient_Egypt)#Names
 
 ## Nswt
 
+### Reading with Final -t
 
 Instead of [nesut], we'd read nswt as [nesawat], and [indeed](https://en.wiktionary.org/wiki/nswt):
 
@@ -467,6 +567,21 @@ Instead of [nesut], we'd read nswt as [nesawat], and [indeed](https://en.wiktion
 
 In fact, our [nesawat] is somewhat closer to the reconstructed pronunciation than the traditional
 Egyptological reading.
+
+### Reading without Final -t
+
+Wolfgang Schenkel, in his article 'Das Wort für "König (von Oberägypten)"' (*Göttinger Miszellen* 94, 1986,
+pp57–73) has, IMHO quite convincingly, argued that the 𓏏 below the sedge hieroglyph in the word for "king",
+often rendered as *nswt*, originated in an early stage of the written language as a variant form to write 𓊃
+*z*, which he emphasized was not pronounced [z] but more likely [ts], so the word for "king" would have to
+be reconstructed as \*[nzw] at that early stage. Later, the distinction between 𓊃 and 𓋴 vanished (as is well
+attested e.g. by their free variation in the cartouches of Ramesses II) but the spelling remained the same
+due to the overall very conservative nature of hieroglyphic orthography. If true, the 𓏏 in the word for
+"king" would then be similar to the 𓆑 in the word for "father", 𓇋𓏏𓆑, where a monoliteral is present but
+silent (although their origins are likely due to dissimilar reasons).
+
+If accepted, our reading for "king" should then be ['nesaw] ... ['nesɔw] ... ['nesuw].
+
 
 ## Unas / Wnjs
 
@@ -556,5 +671,31 @@ Further,
 * ["Das altägyptische Alphabet und seine Umschreibung" by Georg Steindorff, 1892](???)
   * lokal `Steindorff 1892 Das altägyptische Alphabet und seine Umschreibung.pdf`
 
+## Reddit Post
 
+I'm developing a revised Egyptological pronunciation, mainly out of frustration with the established one that
+conflates initial 𓄿, 𓂝 and 𓇋 into [a] and most often treats 𓅱 and trailing 𓇋 as vowels [u] and [i].
 
+Simplifying somewhat, in my system:
+
+* 𓄿 is [ʔ(a)] (i.e. [ʔ] with 'inherent' vowel [a])
+* 𓂝 is [ʕ(ɑ)]
+* 𓇋 is [j(a)] (as in Eng. 'yak')
+
+Most other consonants have [e]/[ə] as inherent vowel, but
+
+* 𓈎 is [qo] (or [qɔ], [qɒ]), and
+* 𓎛 is [ħo].
+
+A few examples (['a] indicating secondary, ["a] primary stress):
+
+* 𓄿𓐍𓏏 𓇋𓏏𓈖 ['ʔaxət "jatən]
+* 𓇋𓅓𓈖 𓎛𓏏𓊪 ['jamən "ħotəp]
+* 𓎛𓂋 𓅓 𓎛𓄿𓃀 ['ħor-əm "ħaʔab]
+* 𓈖𓆑𓂋𓏏 𓇋𓇋𓏏𓇋 ['nefərət "jajtəj] ... ['nefrət 'jajtij]
+* 𓈖𓃀 𓐍𓊪𓂋𓅱 𓂋𓂝 ['neb 'xepərəw "rɑʕ] ... ['neb 'xepruw "rɑʕ]
+
+I've since discovered that some unnamed Egyptian guide reading the hieroglyphs out loud in the Great Temple
+of Amun at Tanis in [*Secrets of the Libyan Pharaohs* by World of Antiquity / David Miano (@ T =
+1840s)](https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1840s) uses a pronunciation that is pretty darn close
+to mine.
