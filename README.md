@@ -511,7 +511,7 @@ hieroglyphs form a "rebus" of Ramesses II's name: Ra-mes-su.
 </figure>
 
 <figure>
-![Ramesses Horon](media/%C3%84gyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg)
+<img alt='Ramesses Horon' src="https://github.com/loveencounterflow/egyptian/blob/abb8758bed60c2b0f9d6c35f68c22f232276491b/media/%C3%84gyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg">
 
 Egyptian Museum Cairo: Statue of the ancient Egyptian king Ramesses II as child together with the
 falcon-shaped god Horon responsible for the selection of the princes as successors to the throne, grey
