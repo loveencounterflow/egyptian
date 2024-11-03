@@ -238,7 +238,7 @@ although the author does not give any further reasons.
   Aten*](https://www.instagram.com/reel/C-jA3NCO-In/)
 
 [*The difficulties of figuring out the historical pronunciation of the name of
-  Aten*](media/egyptiancopticlanguage%20--%20pronunciation%20of%20Aten%20--%20instagram.com_reel_C-jA3NCO-In.mp4)
+  Aten*](https://github.com/loveencounterflow/egyptian/blob/4a212551792935b200c1bf381d747fae9f22ffb4/media/egyptiancopticlanguage%20--%20pronunciation%20of%20Aten%20--%20instagram.com_reel_C-jA3NCO-In.mp4)
 
 > A great article on this topic (if you can read German): Gerhard Fecht. "Amarna-Probleme (1-2)". In:
 > Zeitschrift für Ägyptische Sprache und Altertumskunde 85 (1960).
@@ -504,16 +504,14 @@ Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedric
 The famous [statue of *Ramesses as a Child*](https://en.wikipedia.org/wiki/File:Ramesses_II_as_child.jpg)
 
 <figure>
-![](blob/main/media/Ramesses_II_as_child.jpg)
-
-https://github.com/loveencounterflow/egyptian/blob/main/media/Ramesses_II_as_child.jpg
+![](https://github.com/loveencounterflow/egyptian/blob/4a212551792935b200c1bf381d747fae9f22ffb4/media/Ramesses_II_as_child.jpg)
 
 Statue of Ramses II as a child and the god Hwrwn (god of Canaan). A rare category of statuary, as the three
 hieroglyphs form a "rebus" of Ramesses II's name: Ra-mes-su.
 </figure>
 
 <figure>
-![](media/Ägyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg)
+![](https://github.com/loveencounterflow/egyptian/blob/4a212551792935b200c1bf381d747fae9f22ffb4/media/%C3%84gyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg)
 
 Egyptian Museum Cairo: Statue of the ancient Egyptian king Ramesses II as child together with the
 falcon-shaped god Horon responsible for the selection of the princes as successors to the throne, grey
