@@ -504,14 +504,14 @@ Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedric
 The famous [statue of *Ramesses as a Child*](https://en.wikipedia.org/wiki/File:Ramesses_II_as_child.jpg)
 
 <figure>
-![Ramesses as child](media/Ramesses_II_as_child.jpg)
+<img alt='Ramesses as child' src='https://github.com/loveencounterflow/egyptian/blob/bcd3236d66075b91d38670057672ae923c5e883b/media/Ramesses_II_as_child.jpg'>
 
 Statue of Ramses II as a child and the god Hwrwn (god of Canaan). A rare category of statuary, as the three
 hieroglyphs form a "rebus" of Ramesses II's name: Ra-mes-su.
 </figure>
 
 <figure>
-<img alt='Ramesses Horon' src="https://github.com/loveencounterflow/egyptian/blob/abb8758bed60c2b0f9d6c35f68c22f232276491b/media/%C3%84gyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg">
+<img alt='Ramesses Horon' src='https://github.com/loveencounterflow/egyptian/blob/abb8758bed60c2b0f9d6c35f68c22f232276491b/media/%C3%84gyptisches_Museum_Kairo_2019-11-09_Ramses_II_Horon_04.jpg'>
 
 Egyptian Museum Cairo: Statue of the ancient Egyptian king Ramesses II as child together with the
 falcon-shaped god Horon responsible for the selection of the princes as successors to the throne, grey
