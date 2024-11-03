@@ -504,7 +504,9 @@ Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedric
 The famous [statue of *Ramesses as a Child*](https://en.wikipedia.org/wiki/File:Ramesses_II_as_child.jpg)
 
 <figure>
-![](media/Ramesses_II_as_child.jpg)
+![](blob/main/media/Ramesses_II_as_child.jpg)
+
+https://github.com/loveencounterflow/egyptian/blob/main/media/Ramesses_II_as_child.jpg
 
 Statue of Ramses II as a child and the god Hwrwn (god of Canaan). A rare category of statuary, as the three
 hieroglyphs form a "rebus" of Ramesses II's name: Ra-mes-su.
