@@ -14,7 +14,8 @@
 - [Inherent Vowels, Vowel-Coloring](#inherent-vowels-vowel-coloring)
 - [Reading of initial *j* as [ja]](#reading-of-initial-j-as-ja)
 - [Reading of final *j* as [ai] > [ei]](#reading-of-final-j-as-ai--ei)
-- [Peust 1999 Egyptian Phonolgy p50](#peust-1999-egyptian-phonolgy-p50)
+- [The "Genetival Particle" *n*](#the-genetival-particle-n)
+- [Peust 1999 Egyptian Phonology p50](#peust-1999-egyptian-phonology-p50)
 - [Reading of final *w* as [aw] > [ow]](#reading-of-final-w-as-aw--ow)
   - [Frajzyngier](#frajzyngier)
   - [Rilly](#rilly)
@@ -24,10 +25,15 @@
 - [Meaning of the name Aten](#meaning-of-the-name-aten)
 - [?????????????????????????????????](#)
 - [Jmn](#jmn)
-- [](#)
+- [XXXXXXXXXXXXXXX](#xxxxxxxxxxxxxxx-1)
+- [The Names Thutmosis and Ramesses](#the-names-thutmosis-and-ramesses)
+  - [Thutmosis](#thutmosis)
+  - [Ramesses](#ramesses)
 - [Khwfw](#khwfw)
 - [Iwnw (Ἡλιούπολις)](#iwnw-%E1%BC%A9%CE%BB%CE%B9%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B9%CF%82)
 - [Nswt](#nswt)
+  - [Reading with Final -t](#reading-with-final--t)
+  - [Reading without Final -t](#reading-without-final--t)
 - [Unas / Wnjs](#unas--wnjs)
 - [Dhwty](#dhwty)
 - [Tut-Ankh-Amon](#tut-ankh-amon)
@@ -36,6 +42,7 @@
   - [Sample Reconstructed Readings](#sample-reconstructed-readings)
 - [Data](#data)
 - [See Also](#see-also)
+- [Reddit Post](#reddit-post)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -402,7 +409,7 @@ This would lead one to believe that initial *w-* to be read as {wa-} and at leas
 
 ## Jmn
 
-> # Possible rendering of verb, jmn, "to hide"?
+> Possible rendering of verb, jmn, "to hide"?
 >
 > the name of the god Amun, presupposing the latter was [ja.ˈma.naw]
 >
