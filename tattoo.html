@@ -1,19 +1,40 @@
-
+<!DOCTYPE html>
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+<!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&display=swap" rel="stylesheet"> -->
 
 <style>
 
-	td { outline: 1px solid rgba(255,0,0,0.15); }
+	:root {
+		--border:  							0.5mm solid black; }
 
-	h {
-		display: 								inline;
+	td {
+		/*outline: 1px solid rgba(255,0,0,0.15); */
+		text-align: 						center; }
+
+	td.l { border-left:    		var(--border); }
+	td.r { border-right:   		var(--border); }
+	td.t { border-top:     		var(--border); }
+	td.b { border-bottom:  		var(--border); }
+
+	hg, hg1, hg2, hg3 {
+		display: 								block;
 		font-size: 							300%; }
+
+	hg  { font-family: 						'Aaron UMdC Alpha'; }
+	hg1, f1 hg { font-family: 						'TH-Tshyn-P1'; }
+	hg2, f2 hg { font-family: 						'NewGardiner'; }
+	hg3, f3 hg { font-family: 						'JSesh font'; }
+
+	.rtl { transform: scaleX(-1);  }
 
 	t {
 		display: 								inline;
 		font-style: 						italic;
 		color:  red; }
 
-
+	table {
+		border-collapse: 				collapse; }
 
 	</style>
 
@@ -26,37 +47,143 @@ Faḥri
 
 <table>
 <tr><th>Hieroglyph</th><th>Gardiner</th><th>Unicode</th><th>Description</th><th>Ideogram</th><th>Phonogram</th></tr>
-<tr><td><h>𓀀</h></td><td>A1</td><td>U+13000</td><td>seated man</td><td>I, me, my (masc.) (<t>.j</t>) man (<t>z</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓀩</h></td><td>A36</td><td>U+13029</td><td>man kneading into vessel</td><td>brewer (<t>ꜥftj</t>) grind (<t>nḏ</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓀪</h></td><td>A37</td><td>U+1302a</td><td>man in vessel</td><td>brewer (<t>ꜥftj</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃡</h></td><td>E14</td><td>U+130e1</td><td>dog</td><td>Dog (<t>ṯsm</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃢</h></td><td>E15</td><td>U+130e2</td><td>lying canine</td><td>Anubis (<t>jnpw</t>) He Who is Privy to Secrets (title) (<t>ḥrj-sštꜣ</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃣</h></td><td>E16</td><td>U+130e3</td><td>lying canine on shrine</td><td>Anubis (<t>jnpw</t>) He Who is Privy to Secrets (title) (<t>ḥrj-sštꜣ</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃥</h></td><td>E17</td><td>U+130e5</td><td>jackal</td><td>jackal, (<t>sꜣb</t>) dignitary, senior (<t>sꜣb</t>) come (<t>jw</t>) East (<t>ỉꜣbtt</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃧</h></td><td>E18</td><td>U+130e7</td><td>wolf on standard</td><td>Wepwawet (<t>wpj-wꜣwt</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃩</h></td><td>E20</td><td>U+130e9</td><td>Set-animal</td><td>Set (<t>stẖ, stš, swty</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓃭</h></td><td>E23</td><td>U+130ed</td><td>lying lion</td><td>lion (<t>rw</t>)</td><td><t>rw</t>, <t>r</t>, later <t>l</t></td></tr>
-<tr><td><h>𓅃</h></td><td>G5</td><td>U+13143</td><td>falcon</td><td>Horus (<t>ḥrw</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓆑</h></td><td>I9</td><td>U+13191</td><td>horned viper</td><td></td><td><t>f</t></td></tr>
-<tr><td><h>𓇋</h></td><td>M17</td><td>U+131cb</td><td>reed</td><td>Reed (<t>j</t>) I, me, my (<t>.j</t>)</td><td><t>j</t></td></tr>
-<tr><td><h>𓇌</h></td><td>M17A</td><td>U+131cc</td><td>two reeds</td><td></td><td><t>y, j</t></td></tr>
-<tr><td><h>𓇓</h></td><td>M23</td><td>U+131d3</td><td>sedge</td><td>Sedge (<t>swt</t>) King (<t>nswt</t>) Upper Egypt (<t>šmꜥw</t>) South, Southern (<t>rs</t>, <t>rsj</t>, <t>šmꜥw</t>)</td><td><t>sw</t></td></tr>
-<tr><td><h>𓇭</h></td><td>M43</td><td>U+131ed</td><td>vine on trellis</td><td>Wine (<t>jrp</t>) Vintner, Gardener (<t>kꜣny</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓈙</h></td><td>N37</td><td>U+13219</td><td>pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
-<tr><td><h>𓈚</h></td><td>N37A</td><td>U+1321a</td><td>pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
-<tr><td><h>𓈛</h></td><td>N38</td><td>U+1321b</td><td>deep pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
-<tr><td><h>𓈜</h></td><td>N39</td><td>U+1321c</td><td>pool with water</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
-<tr><td><h>𓊁</h></td><td>O33</td><td>U+13281</td><td>façade of palace</td><td>Palace (<t>srḫ</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓊃</h></td><td>O34</td><td>U+13283</td><td>door bolt</td><td>Doorbolt (<t>s</t>)</td><td><t>s</t></td></tr>
-<tr><td><h>𓋴</h></td><td>S29</td><td>U+132f4</td><td>folded cloth</td><td></td><td><t>s</t></td></tr>
-<tr><td><h>𓋹</h></td><td>S34</td><td>U+132f9</td><td>symbol of life</td><td>Life, to live (<t>ꜥnḫ</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓎛</h></td><td>V28</td><td>U+1339b</td><td>a twisted wick</td><td></td><td><t>ḥ</t></td></tr>
-<tr><td><h>𓏉</h></td><td>W21</td><td>U+133c9</td><td>wine jars</td><td>wine (<t>jrp</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓏊</h></td><td>W22</td><td>U+133ca</td><td>beer jug</td><td>beer (<t>ḥnqt</t>), containers and its contents, tribute (<t>jnw</t>), victim, attendant (<t>wdpw</t>)</td><td><t></t></td></tr>
-<tr><td><h>𓏋</h></td><td>W23</td><td>U+133cb</td><td>beer jug</td><td>container (<t>qrḥt</t>), containers and their contents</td><td><t></t></td></tr>
-<tr><td><h>𓏠</h></td><td>Y5</td><td>U+133e0</td><td>Senet board</td><td></td><td><t>mn</t></td></tr>
-<tr><td><h>𓈖</h></td><td>N35</td><td>U+13216</td><td>ripple of water</td><td>To, for (dat.prep.) (<t>n</t>) Of (gen.adj.) (<t>n(y)</t>)</td><td><t>n</t></td></tr>
-<tr><td><h>𓏭</h></td><td>Z4</td><td>U+133ed</td><td>double stroke</td><td>Egyptian numeral 2, plural, majority, collective concept (e.g. meat <t>jwf</t>), duality</td><td><t>(<t>‑y</t>)</t></td></tr>
-<tr><td><h>𓏲</h></td><td>Z7</td><td>U+133f2</td><td>coil</td><td></td><td><t>w</t></td></tr>
-<tr><td><h>𓅱</h></td><td>G43</td><td>U+13171</td><td>quail chick</td><td>Field, district, region (<t>w</t>)</td><td><t>w</t></td></tr>
+<tr><td><hg>𓀀</hg></td><td>A1</td><td>U+13000</td><td>seated man</td><td>I, me, my (masc.) (<t>.j</t>) man (<t>z</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓀩</hg></td><td>A36</td><td>U+13029</td><td>man kneading into vessel</td><td>brewer (<t>ꜥftj</t>) grind (<t>nḏ</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓀪</hg></td><td>A37</td><td>U+1302a</td><td>man in vessel</td><td>brewer (<t>ꜥftj</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃡</hg></td><td>E14</td><td>U+130e1</td><td>dog</td><td>Dog (<t>ṯsm</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃢</hg></td><td>E15</td><td>U+130e2</td><td>lying canine</td><td>Anubis (<t>jnpw</t>) He Who is Privy to Secrets (title) (<t>ḥrj-sštꜣ</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃣</hg></td><td>E16</td><td>U+130e3</td><td>lying canine on shrine</td><td>Anubis (<t>jnpw</t>) He Who is Privy to Secrets (title) (<t>ḥrj-sštꜣ</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃥</hg></td><td>E17</td><td>U+130e5</td><td>jackal</td><td>jackal, (<t>sꜣb</t>) dignitary, senior (<t>sꜣb</t>) come (<t>jw</t>) East (<t>ỉꜣbtt</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃧</hg></td><td>E18</td><td>U+130e7</td><td>wolf on standard</td><td>Wepwawet (<t>wpj-wꜣwt</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃩</hg></td><td>E20</td><td>U+130e9</td><td>Set-animal</td><td>Set (<t>stẖ, stš, swty</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓃭</hg></td><td>E23</td><td>U+130ed</td><td>lying lion</td><td>lion (<t>rw</t>)</td><td><t>rw</t>, <t>r</t>, later <t>l</t></td></tr>
+<tr><td><hg>𓅃</hg></td><td>G5</td><td>U+13143</td><td>falcon</td><td>Horus (<t>ḥrw</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓆑</hg></td><td>I9</td><td>U+13191</td><td>horned viper</td><td></td><td><t>f</t></td></tr>
+<tr><td><hg>𓇋</hg></td><td>M17</td><td>U+131cb</td><td>reed</td><td>Reed (<t>j</t>) I, me, my (<t>.j</t>)</td><td><t>j</t></td></tr>
+<tr><td><hg>𓇌</hg></td><td>M17A</td><td>U+131cc</td><td>two reeds</td><td></td><td><t>y, j</t></td></tr>
+<tr><td><hg>𓇓</hg></td><td>M23</td><td>U+131d3</td><td>sedge</td><td>Sedge (<t>swt</t>) King (<t>nswt</t>) Upper Egypt (<t>šmꜥw</t>) South, Southern (<t>rs</t>, <t>rsj</t>, <t>šmꜥw</t>)</td><td><t>sw</t></td></tr>
+<tr><td><hg>𓇭</hg></td><td>M43</td><td>U+131ed</td><td>vine on trellis</td><td>Wine (<t>jrp</t>) Vintner, Gardener (<t>kꜣny</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓈙</hg></td><td>N37</td><td>U+13219</td><td>pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
+<tr><td><hg>𓈚</hg></td><td>N37A</td><td>U+1321a</td><td>pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
+<tr><td><hg>𓈛</hg></td><td>N38</td><td>U+1321b</td><td>deep pool</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
+<tr><td><hg>𓈜</hg></td><td>N39</td><td>U+1321c</td><td>pool with water</td><td>Lake, pool (<t>š</t>)</td><td><t>š</t></td></tr>
+<tr><td><hg>𓊁</hg></td><td>O33</td><td>U+13281</td><td>façade of palace</td><td>Palace (<t>srḫ</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓊃</hg></td><td>O34</td><td>U+13283</td><td>door bolt</td><td>Doorbolt (<t>s</t>)</td><td><t>s</t></td></tr>
+<tr><td><hg>𓋴</hg></td><td>S29</td><td>U+132f4</td><td>folded cloth</td><td></td><td><t>s</t></td></tr>
+<tr><td><hg>𓋹</hg></td><td>S34</td><td>U+132f9</td><td>symbol of life</td><td>Life, to live (<t>ꜥnḫ</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓎛</hg></td><td>V28</td><td>U+1339b</td><td>a twisted wick</td><td></td><td><t>ḥ</t></td></tr>
+<tr><td><hg>𓏉</hg></td><td>W21</td><td>U+133c9</td><td>wine jars</td><td>wine (<t>jrp</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓏊</hg></td><td>W22</td><td>U+133ca</td><td>beer jug</td><td>beer (<t>ḥnqt</t>), containers and its contents, tribute (<t>jnw</t>), victim, attendant (<t>wdpw</t>)</td><td><t></t></td></tr>
+<tr><td><hg>𓏋</hg></td><td>W23</td><td>U+133cb</td><td>beer jug</td><td>container (<t>qrḥt</t>), containers and their contents</td><td><t></t></td></tr>
+<tr><td><hg>𓏠</hg></td><td>Y5</td><td>U+133e0</td><td>Senet board</td><td></td><td><t>mn</t></td></tr>
+<tr><td><hg>𓈖</hg></td><td>N35</td><td>U+13216</td><td>ripple of water</td><td>To, for (dat.prep.) (<t>n</t>) Of (gen.adj.) (<t>n(y)</t>)</td><td><t>n</t></td></tr>
+<tr><td><hg>𓏭</hg></td><td>Z4</td><td>U+133ed</td><td>double stroke</td><td>Egyptian numeral 2, plural, majority, collective concept (e.g. meat <t>jwf</t>), duality</td><td><t>(<t>‑y</t>)</t></td></tr>
+<tr><td><hg>𓏲</hg></td><td>Z7</td><td>U+133f2</td><td>coil</td><td></td><td><t>w</t></td></tr>
+<tr><td><hg>𓅱</hg></td><td>G43</td><td>U+13171</td><td>quail chick</td><td>Field, district, region (<t>w</t>)</td><td><t>w</t></td></tr>
 </table>
+
+
+<hr>
+
+<table><tr>
+<td class=rtl>
+<!-- ###################################################################################### -->
+<table>
+<tr><td><hg>𓀀</hg></td><td><hg1>𓀀</hg1></td><td><hg2>𓀀</hg2><td><hg3>𓀀</hg3></td></tr>
+<tr><td><hg>𓀩</hg></td><td><hg1>𓀩</hg1></td><td><hg2>𓀩</hg2><td><hg3>𓀩</hg3></td></tr>
+<tr><td><hg>𓀪</hg></td><td><hg1>𓀪</hg1></td><td><hg2>𓀪</hg2><td><hg3>𓀪</hg3></td></tr>
+<tr><td><hg>𓃡</hg></td><td><hg1>𓃡</hg1></td><td><hg2>𓃡</hg2><td><hg3>𓃡</hg3></td></tr>
+<tr><td><hg>𓃢</hg></td><td><hg1>𓃢</hg1></td><td><hg2>𓃢</hg2><td><hg3>𓃢</hg3></td></tr>
+<tr><td><hg>𓃣</hg></td><td><hg1>𓃣</hg1></td><td><hg2>𓃣</hg2><td><hg3>𓃣</hg3></td></tr>
+<tr><td><hg>𓃥</hg></td><td><hg1>𓃥</hg1></td><td><hg2>𓃥</hg2><td><hg3>𓃥</hg3></td></tr>
+<tr><td><hg>𓃧</hg></td><td><hg1>𓃧</hg1></td><td><hg2>𓃧</hg2><td><hg3>𓃧</hg3></td></tr>
+<tr><td><hg>𓃩</hg></td><td><hg1>𓃩</hg1></td><td><hg2>𓃩</hg2><td><hg3>𓃩</hg3></td></tr>
+<tr><td><hg>𓃭</hg></td><td><hg1>𓃭</hg1></td><td><hg2>𓃭</hg2><td><hg3>𓃭</hg3></td></tr>
+<tr><td><hg>𓅃</hg></td><td><hg1>𓅃</hg1></td><td><hg2>𓅃</hg2><td><hg3>𓅃</hg3></td></tr>
+<tr><td><hg>𓆑</hg></td><td><hg1>𓆑</hg1></td><td><hg2>𓆑</hg2><td><hg3>𓆑</hg3></td></tr>
+<tr><td><hg>𓇋</hg></td><td><hg1>𓇋</hg1></td><td><hg2>𓇋</hg2><td><hg3>𓇋</hg3></td></tr>
+<tr><td><hg>𓇌</hg></td><td><hg1>𓇌</hg1></td><td><hg2>𓇌</hg2><td><hg3>𓇌</hg3></td></tr>
+<tr><td><hg>𓇓</hg></td><td><hg1>𓇓</hg1></td><td><hg2>𓇓</hg2><td><hg3>𓇓</hg3></td></tr>
+<tr><td><hg>𓇭</hg></td><td><hg1>𓇭</hg1></td><td><hg2>𓇭</hg2><td><hg3>𓇭</hg3></td></tr>
+<tr><td><hg>𓈙</hg></td><td><hg1>𓈙</hg1></td><td><hg2>𓈙</hg2><td><hg3>𓈙</hg3></td></tr>
+<tr><td><hg>𓈚</hg></td><td><hg1>𓈚</hg1></td><td><hg2>𓈚</hg2><td><hg3>𓈚</hg3></td></tr>
+<tr><td><hg>𓈛</hg></td><td><hg1>𓈛</hg1></td><td><hg2>𓈛</hg2><td><hg3>𓈛</hg3></td></tr>
+<tr><td><hg>𓈜</hg></td><td><hg1>𓈜</hg1></td><td><hg2>𓈜</hg2><td><hg3>𓈜</hg3></td></tr>
+<tr><td><hg>𓊁</hg></td><td><hg1>𓊁</hg1></td><td><hg2>𓊁</hg2><td><hg3>𓊁</hg3></td></tr>
+<tr><td><hg>𓊃</hg></td><td><hg1>𓊃</hg1></td><td><hg2>𓊃</hg2><td><hg3>𓊃</hg3></td></tr>
+<tr><td><hg>𓋴</hg></td><td><hg1>𓋴</hg1></td><td><hg2>𓋴</hg2><td><hg3>𓋴</hg3></td></tr>
+<tr><td><hg>𓋹</hg></td><td><hg1>𓋹</hg1></td><td><hg2>𓋹</hg2><td><hg3>𓋹</hg3></td></tr>
+<tr><td><hg>𓎛</hg></td><td><hg1>𓎛</hg1></td><td><hg2>𓎛</hg2><td><hg3>𓎛</hg3></td></tr>
+<tr><td><hg>𓏉</hg></td><td><hg1>𓏉</hg1></td><td><hg2>𓏉</hg2><td><hg3>𓏉</hg3></td></tr>
+<tr><td><hg>𓏊</hg></td><td><hg1>𓏊</hg1></td><td><hg2>𓏊</hg2><td><hg3>𓏊</hg3></td></tr>
+<tr><td><hg>𓏋</hg></td><td><hg1>𓏋</hg1></td><td><hg2>𓏋</hg2><td><hg3>𓏋</hg3></td></tr>
+<tr><td><hg>𓏠</hg></td><td><hg1>𓏠</hg1></td><td><hg2>𓏠</hg2><td><hg3>𓏠</hg3></td></tr>
+<tr><td><hg>𓈖</hg></td><td><hg1>𓈖</hg1></td><td><hg2>𓈖</hg2><td><hg3>𓈖</hg3></td></tr>
+<tr><td><hg>𓏭</hg></td><td><hg1>𓏭</hg1></td><td><hg2>𓏭</hg2><td><hg3>𓏭</hg3></td></tr>
+<tr><td><hg>𓏲</hg></td><td><hg1>𓏲</hg1></td><td><hg2>𓏲</hg2><td><hg3>𓏲</hg3></td></tr>
+<tr><td><hg>𓅱</hg></td><td><hg1>𓅱</hg1></td><td><hg2>𓅱</hg2><td><hg3>𓅱</hg3></td></tr>
+</table>
+<!-- ###################################################################################### -->
+</td>
+<td class=ltr>
+<!-- ###################################################################################### -->
+<table>
+<tr><td><hg>𓀀</hg></td><td><hg1>𓀀</hg1></td><td><hg2>𓀀</hg2><td><hg3>𓀀</hg3></td></tr>
+<tr><td><hg>𓀩</hg></td><td><hg1>𓀩</hg1></td><td><hg2>𓀩</hg2><td><hg3>𓀩</hg3></td></tr>
+<tr><td><hg>𓀪</hg></td><td><hg1>𓀪</hg1></td><td><hg2>𓀪</hg2><td><hg3>𓀪</hg3></td></tr>
+<tr><td><hg>𓃡</hg></td><td><hg1>𓃡</hg1></td><td><hg2>𓃡</hg2><td><hg3>𓃡</hg3></td></tr>
+<tr><td><hg>𓃢</hg></td><td><hg1>𓃢</hg1></td><td><hg2>𓃢</hg2><td><hg3>𓃢</hg3></td></tr>
+<tr><td><hg>𓃣</hg></td><td><hg1>𓃣</hg1></td><td><hg2>𓃣</hg2><td><hg3>𓃣</hg3></td></tr>
+<tr><td><hg>𓃥</hg></td><td><hg1>𓃥</hg1></td><td><hg2>𓃥</hg2><td><hg3>𓃥</hg3></td></tr>
+<tr><td><hg>𓃧</hg></td><td><hg1>𓃧</hg1></td><td><hg2>𓃧</hg2><td><hg3>𓃧</hg3></td></tr>
+<tr><td><hg>𓃩</hg></td><td><hg1>𓃩</hg1></td><td><hg2>𓃩</hg2><td><hg3>𓃩</hg3></td></tr>
+<tr><td><hg>𓃭</hg></td><td><hg1>𓃭</hg1></td><td><hg2>𓃭</hg2><td><hg3>𓃭</hg3></td></tr>
+<tr><td><hg>𓅃</hg></td><td><hg1>𓅃</hg1></td><td><hg2>𓅃</hg2><td><hg3>𓅃</hg3></td></tr>
+<tr><td><hg>𓆑</hg></td><td><hg1>𓆑</hg1></td><td><hg2>𓆑</hg2><td><hg3>𓆑</hg3></td></tr>
+<tr><td><hg>𓇋</hg></td><td><hg1>𓇋</hg1></td><td><hg2>𓇋</hg2><td><hg3>𓇋</hg3></td></tr>
+<tr><td><hg>𓇌</hg></td><td><hg1>𓇌</hg1></td><td><hg2>𓇌</hg2><td><hg3>𓇌</hg3></td></tr>
+<tr><td><hg>𓇓</hg></td><td><hg1>𓇓</hg1></td><td><hg2>𓇓</hg2><td><hg3>𓇓</hg3></td></tr>
+<tr><td><hg>𓇭</hg></td><td><hg1>𓇭</hg1></td><td><hg2>𓇭</hg2><td><hg3>𓇭</hg3></td></tr>
+<tr><td><hg>𓈙</hg></td><td><hg1>𓈙</hg1></td><td><hg2>𓈙</hg2><td><hg3>𓈙</hg3></td></tr>
+<tr><td><hg>𓈚</hg></td><td><hg1>𓈚</hg1></td><td><hg2>𓈚</hg2><td><hg3>𓈚</hg3></td></tr>
+<tr><td><hg>𓈛</hg></td><td><hg1>𓈛</hg1></td><td><hg2>𓈛</hg2><td><hg3>𓈛</hg3></td></tr>
+<tr><td><hg>𓈜</hg></td><td><hg1>𓈜</hg1></td><td><hg2>𓈜</hg2><td><hg3>𓈜</hg3></td></tr>
+<tr><td><hg>𓊁</hg></td><td><hg1>𓊁</hg1></td><td><hg2>𓊁</hg2><td><hg3>𓊁</hg3></td></tr>
+<tr><td><hg>𓊃</hg></td><td><hg1>𓊃</hg1></td><td><hg2>𓊃</hg2><td><hg3>𓊃</hg3></td></tr>
+<tr><td><hg>𓋴</hg></td><td><hg1>𓋴</hg1></td><td><hg2>𓋴</hg2><td><hg3>𓋴</hg3></td></tr>
+<tr><td><hg>𓋹</hg></td><td><hg1>𓋹</hg1></td><td><hg2>𓋹</hg2><td><hg3>𓋹</hg3></td></tr>
+<tr><td><hg>𓎛</hg></td><td><hg1>𓎛</hg1></td><td><hg2>𓎛</hg2><td><hg3>𓎛</hg3></td></tr>
+<tr><td><hg>𓏉</hg></td><td><hg1>𓏉</hg1></td><td><hg2>𓏉</hg2><td><hg3>𓏉</hg3></td></tr>
+<tr><td><hg>𓏊</hg></td><td><hg1>𓏊</hg1></td><td><hg2>𓏊</hg2><td><hg3>𓏊</hg3></td></tr>
+<tr><td><hg>𓏋</hg></td><td><hg1>𓏋</hg1></td><td><hg2>𓏋</hg2><td><hg3>𓏋</hg3></td></tr>
+<tr><td><hg>𓏠</hg></td><td><hg1>𓏠</hg1></td><td><hg2>𓏠</hg2><td><hg3>𓏠</hg3></td></tr>
+<tr><td><hg>𓈖</hg></td><td><hg1>𓈖</hg1></td><td><hg2>𓈖</hg2><td><hg3>𓈖</hg3></td></tr>
+<tr><td><hg>𓏭</hg></td><td><hg1>𓏭</hg1></td><td><hg2>𓏭</hg2><td><hg3>𓏭</hg3></td></tr>
+<tr><td><hg>𓏲</hg></td><td><hg1>𓏲</hg1></td><td><hg2>𓏲</hg2><td><hg3>𓏲</hg3></td></tr>
+<tr><td><hg>𓅱</hg></td><td><hg1>𓅱</hg1></td><td><hg2>𓅱</hg2><td><hg3>𓅱</hg3></td></tr>
+</table>
+<!-- ###################################################################################### -->
+</td>
+</tr></table>
+
+<hr>
+
+<f1>
+
+<table>
+<tr><td colspan=2><hg>𓃩</hg></td></tr>
+<tr><td colspan=2 class='l t r'><hg>𓆑</hg></td></tr>
+<tr><td class='l'><hg>𓎛</hg></td><td class='r'><hg>𓃭</hg></td></tr>
+<tr><td colspan=2 class='l b r'><hg>𓏭</hg></td></tr>
+</table>
+
+<hr>
+
+<table>
+<tr><td colspan=2><hg>𓅃</hg></td></tr>
+<tr><td colspan=2 class='l t r'><hg>𓆑</hg></td></tr>
+<tr><td class='l'><hg>𓎛</hg></td><td class='r'><hg>𓃭</hg></td></tr>
+<tr><td colspan=2 class='l b r'><hg>𓏭</hg></td></tr>
+</table>
+
+</f1>
