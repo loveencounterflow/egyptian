@@ -299,6 +299,11 @@ XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
 
 Observe [nə] instead of \*[ən] for particle *n*.
 
+[WIkipedia *Mutnedjmet*](https://en.wikipedia.org/wiki/Mutnedjmet):
+
+> Songstress of Hathor (ḥsyt-nt-ḥwt-ḥrw)
+
+[ḥosyat-net-ḥawət-ḥoraw]
 
 ## Peust 1999 Egyptian Phonology p50
 
