@@ -275,7 +275,7 @@ has *jtn* /jāten/ > /jāti/
 [Reddit user zsl454](https://www.reddit.com/user/zsl454/)
 [remarks](https://www.reddit.com/r/egyptology/comments/1ffiwd7/what_are_the_theories_on_these_titles_concerning/):
 
-> The indirect genitive makes use of the genitival adjective, n[y] (plural nw, feminine nt, dual nwy) often
+> The indirect genitive makes use of the genitival adjective, n[y] \(plural nw, feminine nt, dual nwy) often
 > expressed as just n, "Of". It is arranged as X-n-Y. This is the form we see used in my example, "Amun of
 > Ramesses" [𓇋𓏠𓈖𓈖𓇳𓄊𓁦𓍉𓇳, ỉmn-n-wsr-mꜣꜥt-rꜥ-stp-[n]-rꜥ, "Amun of Usermaatre-Setepenre (the Throne name of
 > Ramesses II)"]
@@ -304,6 +304,44 @@ Observe [nə] instead of \*[ən] for particle *n*.
 > Songstress of Hathor (ḥsyt-nt-ḥwt-ḥrw)
 
 [ḥosyat-net-ḥawət-ḥoraw]
+
+## Monoliteral Particles: *m*
+
+At least reading the [relevant Wiktionary article](https://en.wiktionary.org/wiki/m) it seems clear that
+the Egyptological practice of reading 𓅓 as *em* is at odds with the reconstructed readings which assume
+that this word's structure is CV, not VC:
+
+
+> * (Old Egyptian, c. 2500 BCE) IPA(key): /ma/
+> * (Middle Egyptian, c. 1700 BCE) IPA(key): /mə/
+> * (Amarna-period Late Egyptian, c. 1350 BCE) IPA(key): /mə/
+> * (latest Late Egyptian, c. 800 BCE) IPA(key): /m̩/
+>
+> **Preposition**
+>
+> * 1. in
+> * 2. (of time) in, for, during
+> * 3. (with certain verbs of motion) into
+> * 4. (with most verbs of motion) from within, out of, from
+> * 5. (of material) made of, consisting of
+> * 6. (of contents, e.g. of a group) consisting of, comprising
+> * 7. by means of
+> * 8. in a state of
+> * 9. in the capacity of, in the role of, as, being
+> * 10. together with, along with
+> * 11. (with following infinitive) forms the periphrastic imperfective of a verb
+
+https://en.wiktionary.org/wiki/m#Egyptian
+
+This implies that our proposal should also use the structure mV rather than \**em*:
+
+* 𓎛𓂋 𓅓 𓎛𓄿𓃀 Horemhab *ḥr-m-ḥꜣt*, instead of \*['ħor əm "ħaʔab], read ['ħor ma "ħaʔab] or ['ħor mə "ħaʔab] or
+  ['ħor m̩ "ħaʔab]
+* 𓎛𓂋 𓅓 𓄿𓐍𓏏 Harmachis *ḥr-m-ꜣḫt*, instead of \*['ħor əm "ʔaxət], read ['ħor ma "ʔaxət] or ['ħor mə "ʔaxət] or
+  ['ħor m̩ "ʔaxət]
+* 𓇌 𓅓 𓎛𓏏𓊪 Imhotep *yy-m-ḥtp*, vocalize as *yay-ma-ḥotep* or *yay-m-ḥotep* (i.e.
+  [Imhotep](https://en.wiktionary.org/wiki/jj-m-%E1%B8%A5tp#Egyptian)): ‘(the one) coming in peace’, ‘(the
+  one) returning home safely’
 
 ## Peust 1999 Egyptian Phonology p50
 
@@ -343,7 +381,7 @@ und äg. nb.w ,Gold‘ – eine Gegendarstellung*, in MittSAG 20
 p173ff](https://journals.ub.uni-heidelberg.de/index.php/mittsag/article/download/85552/79931) (cf. also
 [*Der Antike Sudan. Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin e.
 V.*](https://journals.ub.uni-heidelberg.de/index.php/mittsag])), who states unambiguously that reading
-\*/nub/ is an anachronistic (late) Coptic reading that somehow made it into parts of the egyptological
+\*/nub/ is an anachronistic (late) Coptic reading that somehow made it into parts of the Egyptological
 tradition; he quotes Beni Hassan I, 8:11 as rendering a complete writing of Gardiner S12 with all
 consonants, n-S12-b-w<sup>Z3</sup> (wheras the more frequently written S12-w *could* conceivably be
 reconstructed as *nwb*). This fully confirms the above reading of C. Rilly.
@@ -534,6 +572,14 @@ for the Egyptians at that time, the name did consist of three parts: the Sun, a 
 one can also surmise that the latter parts, *ms-sw*, were still somewhat fully pronounced; hence,
 [raʕ'missaw].
 
+### Comparative Readings of the Names, 'Thutmosis' and 'Ramesses'
+
+Both Thutmosis and Ramesses use 𓄟 F31 for the name part *ms*, meaning 'born' or 'give birth to'; this same
+component also appears in the names [Ahmose](https://de.wikipedia.org/wiki/Ahmose_I.) and
+[Kamose](https://de.wikipedia.org/wiki/Kamose). However, the grammatical role of 𓄟 in the name Ramesses is
+different from that in the name Thutmosis.
+
+<!-- In Ramesses, 𓄟 is *ms-sw* with a suffixed 3rd person masculine pronoun; hence, *rʕ-ms-sw* is reconstructed -->
 
 ## Khwfw
 
@@ -553,6 +599,13 @@ This then lends further motivation to our suggestion to read initial and medial 
 
 **insert quotes from quack_sokar_8_2004.pdf here**
 
+[Remark by a Reddit user](https://www.reddit.com/r/AncientEgyptian/comments/1lcrvgl/comment/my5avgx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button):
+
+> (ẖnm.w) ḫw.f wj, what some call Khufu, others Cheops, and which I have reconstructed as (H̱ināmiw) Ḫāwaf
+> Wij (New Egyptian /ɪçno:mɪ ço:wəf we/). His name has three attested transliterations, Χέοψ the most common
+> one, but also Σώϋφις and Σαῶφις. There are NO common letters between Χέοψ and Σώϋφις/Σαῶφις ಥ▽ಥ Yet these
+> are supposed to transliterate the same name. These cases are the most interesting to study because they
+> allow us to look at one name with two viewpoints.
 
 ## Iwnw (Ἡλιούπολις)
 
@@ -586,7 +639,7 @@ Wolfgang Schenkel, in his article 'Das Wort für "König (von Oberägypten)"' (*
 pp57–73) has, IMHO quite convincingly, argued that the 𓏏 below the sedge hieroglyph in the word for "king",
 often rendered as *nswt*, originated in an early stage of the written language as a variant form to write 𓊃
 *z*, which he emphasized was not pronounced [z] but more likely [ts], so the word for "king" would have to
-be reconstructed as \*[nzw] at that early stage. Later, the distinction between 𓊃 and 𓋴 vanished (as is well
+be reconstructed as \*[nVtsVw] at that early stage. Later, the distinction between 𓊃 and 𓋴 vanished (as is well
 attested e.g. by their free variation in the cartouches of Ramesses II) but the spelling remained the same
 due to the overall very conservative nature of hieroglyphic orthography. If true, the 𓏏 in the word for
 "king" would then be similar to the 𓆑 in the word for "father", 𓇋𓏏𓆑, where a monoliteral is present but
@@ -690,13 +743,13 @@ conflates initial 𓄿, 𓂝 and 𓇋 into [a] and most often treats 𓅱 and tr
 
 Simplifying somewhat, in my system:
 
-* 𓄿 is [ʔ(a)] (i.e. [ʔ] with 'inherent' vowel [a])
+* 𓄿 is [ʔ(a)] \(i.e. [ʔ] with 'inherent' vowel [a])
 * 𓂝 is [ʕ(ɑ)]
-* 𓇋 is [j(a)] (as in Eng. 'yak')
+* 𓇋 is [j(a)] \(as in Eng. 'yak')
 
 Most other consonants have [e]/[ə] as inherent vowel, but
 
-* 𓈎 is [qo] (or [qɔ], [qɒ]), and
+* 𓈎 is [qo] \(or [qɔ], [qɒ]), and
 * 𓎛 is [ħo].
 
 A few examples (['a] indicating secondary, ["a] primary stress):
