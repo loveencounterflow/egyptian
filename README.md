@@ -48,6 +48,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+# [Name of Proposal]: A Reconstructional Fiction
+
+
 ## Rules
 
 
@@ -337,13 +341,19 @@ https://en.wiktionary.org/wiki/m#Egyptian
 
 This implies that our proposal should also use the structure mV rather than \**em*:
 
-* 𓎛𓂋 𓅓 𓎛𓄿𓃀 Horemhab *ḥr-m-ḥꜣt*, instead of \*['ħor əm "ħaʔab], read ['ħor ma "ħaʔab] or ['ħor mə "ħaʔab] or
+* 𓎛𓂋 𓅓 𓎛𓄿𓃀 Horemhab *ḥr-m-ḥꜣb*, instead of \*['ħor əm "ħaʔab], read ['ħor ma "ħaʔab] or ['ħor mə "ħaʔab] or
   ['ħor m̩ "ħaʔab]
 * 𓎛𓂋 𓅓 𓄿𓐍𓏏 Harmachis *ḥr-m-ꜣḫt*, instead of \*['ħor əm "ʔaxət], read ['ħor ma "ʔaxət] or ['ħor mə "ʔaxət] or
   ['ħor m̩ "ʔaxət]
 * 𓇌 𓅓 𓎛𓏏𓊪 Imhotep *yy-m-ḥtp*, vocalize as *yay-ma-ḥotep* or *yay-m-ḥotep* (i.e.
   [Imhotep](https://en.wiktionary.org/wiki/jj-m-%E1%B8%A5tp#Egyptian)): ‘(the one) coming in peace’, ‘(the
   one) returning home safely’
+
+> the epithet *stp.nrꜥ* “whom the Sun has chosen,” vocalized in cuneiform as *šati-ip-na-ri-a*. This,
+> however, shows no attributive ending, and the verb form has the vocalization of the active participle,
+> which it may therefore be instead: *stp-n-rꜥ* \*/saʹ-tip-ni-riʹ-ꜥa/ “who chooses for the Sun.”—Allen,
+> *Ancient Egyptian Phonology*, p144
+
 
 ## Peust 1999 Egyptian Phonology p50
 
@@ -465,7 +475,7 @@ This would lead one to believe that initial *w-* to be read as {wa-} and at leas
 
 * https://www.reddit.com/r/AncientEgyptian/comments/17yjm5v/possible_rendering_of_verb_jmn_to_hide/
 
-## XXXXXXXXXXXXXXX
+## Atum, Aton, Amun, ...?
 
 https://www.reddit.com/r/EgyptianMythology/comments/1bsxidh/atum_aton_amun/
 
@@ -508,6 +518,13 @@ Behlmer, Katja Demuß, Kai Widmaier (Hg.), *jn.t Dr.w, Festschrift für Friedric
 
 > griech. Patoumos < äg. Pr.w-\*'Ia:tā́m.uw (Ortsname)
 
+## Zur Aussprache der Namen Aton, Echnaton, Nofretete
+
+> *Nachtrag des Übersetzers:* [...] man [hat] schon vor längerer Zeit aufgrund des keilschriftlichen
+> Befundes gefordert, *Aton* als *Jati* sowie *Echnaton* als *Achanjati* und *Nofretete* als *Nafteta* zu
+> lesen (vgl. G[erhard] Fecht, in: ZÄS [*Zeitschrift für Ägyptische Sprache und Altertumskunde*, Leipzig und
+> Berlin, vermutlicher Titel "Amarna-Probleme (1-2)") 85 [1960] 83–118].—(J. Rehork (Übers.), *Echnaton:
+> Gott und Phraoh Ägyptens* von Cyril Aldred, dt. Ausgabe Lübbe 1968, 3-88199-336-3, p293)
 
 ## The Names Thutmosis and Ramesses
 
@@ -573,6 +590,9 @@ Note: The fact that Ramesses' name is spelt out as three parts by the statue's a
 for the Egyptians at that time, the name did consist of three parts: the Sun, a Child, a Reed (or Sedge);
 one can also surmise that the latter parts, *ms-sw*, were still somewhat fully pronounced; hence,
 [raʕ'missaw].
+
+> *rꜥ-msj-sw* /riʹ-ꜥa ma-siʹ-sa/ “The Sun is the one who birthed him,” name
+> of Ramesses II, cuneiform *ri-a-ma-ši-ša*—Allen, *Ancient Egyptian Phonology* p99
 
 ### Comparative Readings of the Names, 'Thutmosis' and 'Ramesses'
 
@@ -766,3 +786,15 @@ I've since discovered that some unnamed Egyptian guide reading the hieroglyphs o
 of Amun at Tanis in [*Secrets of the Libyan Pharaohs* by World of Antiquity / David Miano (@ T =
 1840s)](https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1840s) uses a pronunciation that is pretty darn close
 to mine.
+
+## Hieroglyphs with Controversial Readings
+
+* 𓎱 W3 picture of an alabaster basin; 'alabaster' *šs*, 'festival' *ḥꜣb* (or *ḥb*?)
+  * *ḥꜣb*: https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs#W
+  * *ḥb*: Betro, Maria Carmela *Heilige Zeichen: 580 Ägyptische Hieroglyphen* p193
+
+* 𓐑 Aa5 Part of steering gear of a ship
+  * *ḥjp* 'hasten'
+  * *ḥpt* 'hepet-device', also read *ḥꜢpt* (cf. https://pharaoh.se/ancient-egypt/pharaoh/mentuhotep-ii/)
+  * *ḥp* (rarely)
+  * notice the uncertainty between 𓐑 *ḥpt* v. *ḥꜢpt* is analogous to that of 𓎱 *ḥb* v. *ḥꜣb*
