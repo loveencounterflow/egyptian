@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [he Analemma–Ankh–Obelisk Thesis](#he-analemmaankhobelisk-thesis)
+- [Refutation](#refutation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 on [r/egyptology](https://www.reddit.com/r/egyptology/comments/1jx9l7s/the_analemmaankhobelisk_thesis/)
 by user [vivaldischools](https://www.reddit.com/user/vivaldischools/)

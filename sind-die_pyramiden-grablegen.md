@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Sind die Ägyptischen Pyramiden Grablegen der Pharaonen gewesen?](#sind-die-%C3%84gyptischen-pyramiden-grablegen-der-pharaonen-gewesen)
+  - [Ursprung der Worte *Pyramide* und *Pharao*](#ursprung-der-worte-pyramide-und-pharao)
+  - [Was die Pyramiden sicher nicht waren](#was-die-pyramiden-sicher-nicht-waren)
+  - [Primäre Quellen](#prim%C3%A4re-quellen)
+  - [Was die Pyramiden vielleicht doch auch waren](#was-die-pyramiden-vielleicht-doch-auch-waren)
+  - [Indizien](#indizien)
+  - [Links](#links)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 * Keith Hamilton f. Abbildungen

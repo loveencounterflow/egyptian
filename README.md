@@ -6,7 +6,8 @@
   - [Rules](#rules)
   - [Tripartite Vowel System](#tripartite-vowel-system)
   - [The Value of Egyptological Usage in Modern Egypt for this Work](#the-value-of-egyptological-usage-in-modern-egypt-for-this-work)
-  - [Collection of Reconstred Ancient Egyptian Words](#collection-of-reconstred-ancient-egyptian-words)
+  - [Hieroglyphs: A Consonantal Writing System](#hieroglyphs-a-consonantal-writing-system)
+  - [Collection of Reconstructed Ancient Egyptian Words](#collection-of-reconstructed-ancient-egyptian-words)
   - [Stress and Resyllabification](#stress-and-resyllabification)
   - [Transcription Levels](#transcription-levels)
   - [Language Represented](#language-represented)
@@ -144,7 +145,29 @@ a i u
   1840s)](https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1840s): Listen to an unnamed Egyptian guide
   reading the hieroglyphs in the Great Temple of Amun at Tanis
 
-## Collection of Reconstred Ancient Egyptian Words
+## Hieroglyphs: A Consonantal Writing System
+
+https://chatgpt.com/s/t_6943e8950a6881919e283cb1905f9187:
+
+>
+> **Georg Steindorff** (1861–1951). Steindorff published a short paper in 1892 titled *“Das altägyptische
+> Alphabet und seine Umschreibung”* in the *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, in
+> which he explicitly formulates the consonantal character of Egyptian writing (the wording in secondary
+> sources renders his conclusion as “das ägyptische Alphabet … ein Consonantenalphabet ist”). ([heiDOK][1])
+>
+> Other German scholars who expressed the same view around the same period (and who are sometimes cited or
+> remembered for that position) include **Adolf Erman** and **Heinrich Brugsch** (Erman’s *Ägyptische
+> Grammatik* and related writings of the 1890s lay out essentially the modern consonantal interpretation,
+> and Brugsch and others earlier had already moved in that direction). If your memory was fuzzy between
+> *Stein–* names and *Erman/Brugsch*, that would be unsurprising — these authors all contributed to the
+> consensus by the late 19th century. ([heiDOK][1])
+>
+> [1]:
+> https://archiv.ub.uni-heidelberg.de/propylaeumdok/4237/1/Peust_Egyptologese_2015.pdf?utm_source=chatgpt.com
+> "Egyptologese"
+>
+
+## Collection of Reconstructed Ancient Egyptian Words
 
 [*Pre-Late Egyptian Reconstruction/Egyptian
 Pronunciation*](https://en.wikiversity.org/wiki/Ancient_Egyptian_vocalization_project/List_of_vocalized_forms)
